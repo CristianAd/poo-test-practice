@@ -25,6 +25,8 @@ class Animal {
   const perro = new Perro("Max");
   const gato = new Gato("Whiskers");
   
-  perro.hacerSonido();
+  perro.hacerSonido()
   gato.hacerSonido();
+
+ 
   
